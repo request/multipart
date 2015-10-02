@@ -1,21 +1,23 @@
 {
-  "name": "request-multipart",
+  "name": "@http/multipart",
   "version": "0.1.0",
-  "description": "Generate Multipart Bodies",
+  "description": "HTTP Multipart Body Stream",
 
   "keywords": [
+    "http",
+    "https",
     "multipart",
     "form-data"
   ],
 
-  "license": "MIT",
-  "homepage": "https://github.com/simov/request-multipart",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/node-http/multipart",
 
   "author": "Simeon Velichkov <simeonvelichkov@gmail.com> (http://simov.github.io)",
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/simov/request-multipart.git"
+    "url": "https://github.com/node-http/multipart.git"
   },
 
   "dependencies": {
