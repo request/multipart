@@ -1,9 +1,10 @@
 {
-  "name": "@http/multipart",
+  "name": "@request/multipart",
   "version": "0.1.0",
   "description": "HTTP Multipart Body Stream",
 
   "keywords": [
+    "request",
     "http",
     "https",
     "multipart",
@@ -11,20 +12,20 @@
   ],
 
   "license": "Apache-2.0",
-  "homepage": "https://github.com/node-http/multipart",
+  "homepage": "https://github.com/request/multipart",
 
   "author": "Simeon Velichkov <simeonvelichkov@gmail.com> (http://simov.github.io)",
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/node-http/multipart.git"
+    "url": "https://github.com/request/multipart.git"
   },
 
   "dependencies": {
-    "bulk-stream"    : "0.1.2",
-    "isstream"       : "0.1.2",
-    "node-uuid"      : "1.4.7",
-    "mime-types"     : "2.1.6"
+    "bulk-stream": "0.1.2",
+    "isstream": "0.1.2",
+    "node-uuid": "1.4.7",
+    "mime-types": "2.1.6"
   },
 
   "devDependencies": {},
